@@ -1,0 +1,54 @@
+body{
+    background-color: bisque;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1{
+    text-align: center;
+    color: rgb(128, 0, 0);
+}
+
+h2,h4{
+    text-align:center;
+    color:rgb(15, 68, 143);
+}
+
+li{
+    margin-left: auto;
+    text-align: center;
+    color: rgb(94, 22, 162);
+}
+
+table , th, td{
+    margin: auto;
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 800px;
+}
+
+
+th{
+    color: rgb(111, 3, 3);
+}
+
+form{
+    width: 300px;
+    margin: auto;
+    text-align: center;
+}
+
+input{
+    font-family: cursive;
+}
+
+input[type="submit"]{
+    background-color: rgb(160, 160, 217);
+}
+
+#update-box {
+    width: 400px;
+}
+
+#update-button {
+    width: 100px;
+}
